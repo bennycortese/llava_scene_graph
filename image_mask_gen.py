@@ -42,3 +42,6 @@ plt.imshow(image)
 show_anns(masks)
 plt.axis('off')
 plt.show() 
+
+# note - test clip here and see if the annotation file is similar to those required
+# add examples
